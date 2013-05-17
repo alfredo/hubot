@@ -35,7 +35,8 @@
     "cheerio":       "",
     "jquery":        "",
     "nodepie":       "0.5.0",
-    "underscore":    ""
+    "underscore":    "",
+    "cleverbot-node": "0.1.1"
   },
 
   "engines": {
